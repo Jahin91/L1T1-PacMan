@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1734201025 source:f:\cse 102 practice\experiment\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+
+1730346297 f:\cse 102 practice\experiment\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1730346297 f:\cse 102 practice\experiment\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1734491227 source:f:\cse 102 practice\experiment\main.cpp
+	"iGraphics.h"
+	<windows.h>
+	<mmsystem.h>
+	<bits/stdc++.h>
+
